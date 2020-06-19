@@ -1,0 +1,5 @@
+1:we will add all find elements in the POM pachage
+2:We will create manual data provider using 2D array then pass it to login test case
+3:Pass the data provider values to login testcase to use it.
+4:Logout will be added in the login tc to logout after each login to be able to relogin again
+using the next  row in the array.
